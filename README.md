@@ -12,7 +12,7 @@ This project involved the use of machine learning for predicting employee attrit
 - `notebooks/`: Contains Jupyter notebooks used for data visualization, data preprocessing, modeling and evaluating the model
 - `docs/`: Contains a PDF file with an explanation of the project methodology and results.
 
-## Dependencies
+** Dependencies **
 
 - pandas
 - numpy
@@ -20,7 +20,7 @@ This project involved the use of machine learning for predicting employee attrit
 - matplotlib
 - scikit-learn
 
-##Data
+**Data**
 The data for this project was obtained from Kaggle, a popular online platform for machine learning and data science competitions, named "[IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/datasets/pavansubhasht/ibm-hranalytics-attrition-dataset)".
 
 
