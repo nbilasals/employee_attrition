@@ -1,4 +1,4 @@
-# employee_attrition
+# Predicting Employee Attrition using Machine Learning
 
 **Overview**
 
